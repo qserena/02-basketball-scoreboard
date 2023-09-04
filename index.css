@@ -1,0 +1,79 @@
+@font-face {
+    src: url("CursedTimerUlil-Aznm.ttf");
+    font-family: CursedTimer;
+}
+
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 575px;
+    height: 375px;
+    background: #1B244A;
+    margin: 20px auto;
+}
+
+.team-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: CursedTimer;
+    margin: 26px 0px 0px 0px;
+}
+
+.header {
+    color: #EEE;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    margin: 70px 0px 20px 0px;
+}
+
+/* .score {
+    width: 155px;
+    height: 120px;
+    fill: none;
+}
+
+.score-rect {
+    width: 155px;
+    height: 120px;
+    fill: #080001;
+} */
+
+.score-digit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    width: 155px;
+    height: 120px;
+    font-family: CursedTimer;
+    font-size: 90px;
+    color: #F94F6D;
+    background-color: #080001;
+}
+
+.increment-button {
+    width: 45px;
+    height: 45px;
+    margin: 5px;
+    background-color: inherit;
+    color: #9AABD8;
+    border-radius: 5px;
+    border: 2px solid #9AABD8;
+    font-family: CursedTimer;
+}
