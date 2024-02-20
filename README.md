@@ -4,7 +4,7 @@
 Exercise in HTML, CSS and JavaScript. Functionality to increase each team with 1, 2 or 3 points at a time.
 
 <br/>
-<img src="scoreboard" alt="Screenshot." width="400px"/>
+<img src="scoreboard.png" alt="Screenshot." width="400px"/>
 
 ## Technologies
 - HTML
