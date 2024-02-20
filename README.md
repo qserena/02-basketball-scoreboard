@@ -9,6 +9,7 @@ Exercise in HTML, CSS and JavaScript. Functionality to increase each team with 1
 ## Technologies
 - HTML
 - CSS
+- JavaScript
 
 ## Live link
 The website is deployed here:
